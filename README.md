@@ -1,4 +1,4 @@
-| **Проект** | **Превью** |
+| **Проект** | **Краткое описание** |
 |---|---|
 | [Исследовательский анализ данных в SQL с визуализацией](https://github.com/petrosbatu/sql_data_analysis) |  |
 | [A/B-тест изменений в мобильной игре с помощью Python](https://github.com/petrosbatu/abtestproject) |  |
